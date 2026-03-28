@@ -1,0 +1,30 @@
+{
+  "name": "mcp-crawl-parity",
+  "version": "1.0.0",
+  "description": "MCP server for analyzing Googlebot vs AI crawler parity from Nginx logs and GSC data",
+  "type": "module",
+  "main": "./src/index.js",
+  "bin": {
+    "mcp-crawl-parity": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "googlebot",
+    "ai-crawlers",
+    "crawl-parity",
+    "nginx",
+    "gsc"
+  ],
+  "author": "Artur Ferreira / The GEO Lab",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "googleapis": "^131.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
