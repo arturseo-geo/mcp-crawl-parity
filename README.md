@@ -127,3 +127,7 @@ MIT — See LICENSE file
 ## Author
 
 Artur Ferreira / The GEO Lab
+
+---
+
+A project by [The GEO Lab](https://thegeolab.net) — Generative Engine Optimisation research
