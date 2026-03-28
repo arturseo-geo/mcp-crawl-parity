@@ -1,5 +1,8 @@
 # Crawl Parity MCP
 
+> Built at [The GEO Lab](https://thegeolab.net) — where we discovered that Googlebot and AI crawlers make independent authority assessments on new domains.
+
+
 An MCP (Model Context Protocol) server for analyzing Googlebot vs AI crawler parity from Nginx access logs and Google Search Console (GSC) data. Determines how consistently AI crawlers access your content relative to Googlebot.
 
 ## Installation
